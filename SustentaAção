@@ -1,6 +1,11 @@
 <idoctype html>
 <html lang="pt-BR">
-<html> 
+<html>
+<estilo>
+H1{ cor da fonte: azul;
+tamanho da fonte 50;
+}
+</estilo>
 <head>sustentaAção</head>
 <title>terra em equilibrio> </title>
 <body> 
@@ -40,3 +45,4 @@ alt=https://img.odcdn.com.br/wp-content/uploads/2024/05/shutterstock_2261596665-
 <Input Type="mensagem"Id Place Holder="mensagem" </textarea>
 <button> "Enviar" </button>
 <audio controls>"audio.mp3""https://www.youtube.com/watch?v=Dho_VqAAJC8",,,,,,,,,,,,,,,,,,,,
+,p style="color:blue;font-size:50;>ola,css!</p>
